@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajithesh9
 - 👀 I’m interested in Full stack web development and App development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me Ajithesh#6122 @ Discord
 
 <!---
